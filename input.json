@@ -1,0 +1,11 @@
+{
+  "usernames": [
+    "apify",
+    "microsoft"
+  ],
+  "includeRepos": true,
+  "maxReposPerUser": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
